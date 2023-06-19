@@ -2,7 +2,7 @@
 
 A simple calculator implemented in Python using the PySimpleGUI library.
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](https://raw.githubusercontent.com/MikeTsak/py-simple-calculator/main/Screenshot.png)
 
 ## Features
 
